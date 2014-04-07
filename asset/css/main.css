@@ -1,0 +1,16 @@
+.topnav{
+	background-color: #f5f5f5 !important;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.list-foot{
+	list-style: none;
+	margin: 0px;
+	padding-left: 0px;
+	margin-bottom: 20px;
+}
+.list-foot li{
+	margin-bottom: 5px;
+}
